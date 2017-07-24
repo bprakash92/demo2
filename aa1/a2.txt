@@ -1,2 +1,0 @@
-there is local repository and remote repository
-2 are combine with http and ssh links
